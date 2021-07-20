@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DevOpsDemoCPP", "DevOpsDemo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPPDemo_UnitTest", "CPPDemo_UnitTest\CPPDemo_UnitTest.vcxproj", "{FE6B53D9-FB41-4593-B923-8B083B5204C3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Google_Tests", "Google_Tests\Google_Tests.vcxproj", "{F8021A8D-20E9-4376-8BBB-30D15705240A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -55,6 +57,18 @@ Global
 		{FE6B53D9-FB41-4593-B923-8B083B5204C3}.Release|x64.Build.0 = Release|x64
 		{FE6B53D9-FB41-4593-B923-8B083B5204C3}.Release|x86.ActiveCfg = Release|Win32
 		{FE6B53D9-FB41-4593-B923-8B083B5204C3}.Release|x86.Build.0 = Release|Win32
+		{F8021A8D-20E9-4376-8BBB-30D15705240A}.Debug|ARM.ActiveCfg = Debug|Win32
+		{F8021A8D-20E9-4376-8BBB-30D15705240A}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{F8021A8D-20E9-4376-8BBB-30D15705240A}.Debug|x64.ActiveCfg = Debug|x64
+		{F8021A8D-20E9-4376-8BBB-30D15705240A}.Debug|x64.Build.0 = Debug|x64
+		{F8021A8D-20E9-4376-8BBB-30D15705240A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8021A8D-20E9-4376-8BBB-30D15705240A}.Debug|x86.Build.0 = Debug|Win32
+		{F8021A8D-20E9-4376-8BBB-30D15705240A}.Release|ARM.ActiveCfg = Release|Win32
+		{F8021A8D-20E9-4376-8BBB-30D15705240A}.Release|ARM64.ActiveCfg = Release|Win32
+		{F8021A8D-20E9-4376-8BBB-30D15705240A}.Release|x64.ActiveCfg = Release|x64
+		{F8021A8D-20E9-4376-8BBB-30D15705240A}.Release|x64.Build.0 = Release|x64
+		{F8021A8D-20E9-4376-8BBB-30D15705240A}.Release|x86.ActiveCfg = Release|Win32
+		{F8021A8D-20E9-4376-8BBB-30D15705240A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
